@@ -30,14 +30,14 @@ Thanks to everyone who supported
 
 Dileepa Bandara  
 ©dileepabandara.dev  
-https://dileepabandara.github.io
+<https://dileepabandara.dev>
 
 ## 💬 Contact
 
 If you want to contact me, leave a message via email or Twitter
 
 - Email - <contact.dileepabandara@gmail.com>
-- Twitter - [dileepa_bandara](https://twitter.com/dileepa_bandara)
+- Twitter - [_dileepabandara](https://twitter.com/_dileepabandara)
 
 ## 📜 License
 
